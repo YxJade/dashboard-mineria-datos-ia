@@ -2,9 +2,9 @@
 
 ![Dashboard](screenshots/dashboard_1.png)
 
-![Dashboard](screenshots/dashboard_1.png)
+![Dashboard](screenshots/dashboard_2.png)
 
-![Regresión Lineal](screenshots/Regresión_Lineal.png)
+![Regresión Lineal](screenshots/Regresion_Lineal.png)
 
 ![Clustering](screenshots/clustering_1.png)
 
