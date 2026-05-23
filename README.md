@@ -1,4 +1,4 @@
-# Dashboard de Minería de Datos con IA
+# Dashboard de minería de datos con IA
 
 Aplicación web desarrollada con Python y Flask capaz de analizar automáticamente archivos CSV, generar dashboards dinámicos y ejecutar modelos de Machine Learning sin modificar código.
 
